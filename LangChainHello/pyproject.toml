@@ -2,7 +2,7 @@
 name = "langchainhello"
 version = "0.1.0"
 description = "Add your description here"
-requires-python = ">=3.14"
+requires-python = ">=3.11"
 dependencies = [
     "black>=26.1.0",
     "isort>=7.0.0",
